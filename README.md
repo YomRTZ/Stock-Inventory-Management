@@ -33,8 +33,3 @@ Before you start, ensure you have the following installed:
 ## Installation
 
 ### Backend (Laravel)
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/stock-inventory-management.git
-   cd stock-inventory-management
